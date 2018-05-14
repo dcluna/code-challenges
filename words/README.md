@@ -37,3 +37,11 @@ give
 In the above example, 'arro' does not appear in the output. This is because it is found in more than one word (cARROts, ARROw).
 
 For the final solution, read in the dictionary file in this repo.
+
+Usage
+----------------
+```sh
+exe/words <path_to_dictionary_file>
+```
+
+should generate the expected output files. The order may be different from the given in the technical spec above.
